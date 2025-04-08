@@ -10,7 +10,7 @@ This script automates the viewing of YouTube videos a specified number of times 
 - Clears the console between actions for a cleaner user experience.
 
 ## Bugs
-- **Video Playback Interruption**: YouTube may display an error message and stop playback after approximately 19 seconds when using this script. This behavior is likely due to YouTube detecting automated interactions.&#8203;:contentReference[oaicite:8]{index=8}
+- **Video Playback Interruption**: YouTube may display an error message and stop playback after approximately 19 seconds when using this script. This behavior is likely due to YouTube detecting automated interactions.
 
 ## Requirements
 
