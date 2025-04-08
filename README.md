@@ -25,4 +25,4 @@ Before running the script, ensure you have the following libraries installed:
 Install the required libraries using pip:
 
 ```bash
-pip install selenium webdriver_manager pyautogui
+pip install -r requirements.txt
