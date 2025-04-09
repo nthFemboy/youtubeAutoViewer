@@ -64,7 +64,7 @@ if __name__ == "__main__":
             view_video(url, count, time)
 
         elif userInput == "2":
-            print("Goodbye :3")
+            print("Goodbyte :3")
             exit(0)
 
         else:
